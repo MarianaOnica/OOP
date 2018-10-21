@@ -15,7 +15,7 @@
 13.[Lîniuc Cristina](https://github.com/cristina-liniuc/OOP)<br>
 14.[Lupașcu Andrei](https://github.com/FluffyK/OOP)<br>
 15.[Munteanu Vasilică]<br>
-16.[Onica Mariana]<br>
+16.[Onica Mariana](https://github.com/MarianaOnica/OOP)<br>
 17.[Osoianu Filip](https://github.com/FilipOsoianu/OOP)<br>
 18.[Poleacov Tatiana](https://github.com/taneapoleacov/OOP)<br>
 19.[Popov Eliodor](github.com/EliodorPopov/OOP)<br>
