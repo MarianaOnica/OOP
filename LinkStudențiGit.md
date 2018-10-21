@@ -5,7 +5,7 @@
 3.[Casap Alexandru](https://github.com/casapalexandru/OOP)<br>
 4.[Cavcaliuc Nina](https://github.com/Cavcaliuc/OOP)<br>
 5.[Cebotaru Dimitrian] <br>
-6.[Cerempei Ion]<br>
+6.[Cerempei Ion](https://github.com/FilipAdrian/oop)<br>
 7.[Ciocan Laurențiu](https://github.com/LichcrazeLC)<br>
 8.[Diacenco Margareta](https://github.com/ritaFAF/OOP)<br>
 9.[Doga Vadim](https://github.com/vadimdoga/OOP)<br>
