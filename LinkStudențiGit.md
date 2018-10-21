@@ -9,7 +9,7 @@
 7.[Ciocan Laurențiu](https://github.com/LichcrazeLC)<br>
 8.[Diacenco Margareta](https://github.com/ritaFAF/OOP)<br>
 9.[Doga Vadim](https://github.com/vadimdoga/OOP)<br>
-10.[Filip Adrian]<br>
+10.[Filip Adrian](https://github.com/FilipAdrian/oop)<br>
 11.[Fiștic Cristofor]<br>
 12.[Guzun Alexandru]<br>
 13.[Lîniuc Cristina](https://github.com/cristina-liniuc/OOP)<br>
