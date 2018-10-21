@@ -1,9 +1,9 @@
 # FAF-171 
 ## Lista studentilor + linku
-1.[Baracu Patricia](https://github.com/PatriciaBaracu/oop)
-2.[Bargan Cătălin](https://github.com/LUCk1Ng .)
-3.[Casap Alexandru](https://github.com/casapalexandru/OOP)
-4.[Cavcaliuc Nina](https://github.com/Cavcaliuc/OOP)
+1.[Baracu Patricia](https://github.com/PatriciaBaracu/oop)<br>
+2.[Bargan Cătălin](https://github.com/LUCk1Ng .)<br>
+3.[Casap Alexandru](https://github.com/casapalexandru/OOP)<br>
+4.[Cavcaliuc Nina](https://github.com/Cavcaliuc/OOP)<br>
 5.[Cebotaru Dimitrian] 
 6.[Cerempei Ion] 
 7.[Ciocan Laurențiu](https://github.com/LichcrazeLC)
