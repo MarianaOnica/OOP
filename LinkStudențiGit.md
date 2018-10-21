@@ -22,4 +22,4 @@
 20.[Roibu Vitalie](https://github.com/VITAL1E)<br>
 21.[Șveț Valeria](https://github.com/Valeriaaasv)<br>
 22.[Țîrdea Nicoleta](https://github.com/NicoletaTirdea)<br>
-23.[Țurcanu Ana]
+23.[Țurcanu Ana](https://github.com/AnaTurcanu/OOP)
