@@ -11,7 +11,7 @@
 9.[Doga Vadim](https://github.com/vadimdoga/OOP)<br>
 10.[Filip Adrian](https://github.com/FilipAdrian/oop)<br>
 11.[Fiștic Cristofor](https://github.com/cristofor98)<br>
-12.[Guzun Alexandru]<br>
+12.[Guzun Alexandru](https://github.com/xandru1/oop)<br>
 13.[Lîniuc Cristina](https://github.com/cristina-liniuc/OOP)<br>
 14.[Lupașcu Andrei](https://github.com/FluffyK/OOP)<br>
 15.[Munteanu Vasilică](https://github.com/LikaMD)<br>
